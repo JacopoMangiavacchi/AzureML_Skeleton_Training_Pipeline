@@ -1,0 +1,17 @@
+{
+    "compute_name" : "XXXXX",
+    "input_data_store_name" : "XXXXX",
+    "input_container_name" : "XXXXX",
+    "input_folder_path" : ".",
+    "account_name" : "XXXXX",
+    "account_key" : "XXXXX",
+    "train_csv_file" : "XXXXX.csv",
+    "model_name" : "sample",
+    "pipeline_name" : "Test Training Pipeline",
+    "pipeline_experiment_name" : "Test_Training_PEX",
+    "pipeline_schedule_name" : "Test_Training_Schedule",
+    "pipeline_schedule_frequency" : "Week",
+    "pipeline_schedule_interval" : 1,
+    "pipeline_schedule_time_of_day" : "12:00",
+    "pipeline_schedule_weeks_days" : ["Monday"]
+}
